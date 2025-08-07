@@ -1,6 +1,3 @@
-Aquí tienes un documento Markdown completo que explica el sistema de facturación en C++ para tus compañeros:
-
-```markdown
 # Documentación del Sistema de Facturación en C++
 
 ## 📌 Introducción
